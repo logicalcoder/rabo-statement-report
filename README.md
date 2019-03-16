@@ -2,7 +2,7 @@
 Assignment for Rabobank
 
 ### Technology used
-For the back-end I used Node/Express and for the front-end I used ReactJS.
+For the back-end I used Node/Express and for the front-end I used ReactJS.<br>
 Server unit test written using Mocha and Chai.
 
 ### Prepare application
